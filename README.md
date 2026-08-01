@@ -79,7 +79,7 @@ The dashboard provides an easy way to monitor inventory performance, analyse sto
 ## 📂 Files Included
 
 - Inventory Management Dashboard.xlsx
-- Inventory Management Dashboard .jpg
+- Dashboard.png
 - README.md
 
 ---
