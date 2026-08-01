@@ -70,11 +70,9 @@ The dashboard provides an easy way to monitor inventory performance, analyse sto
 - Business Reporting
 
 ---
+## Dashboard Preview
 
-## 📷 Dashboard Preview
-
-![Inventory Dashboard](<img width="2488" height="1499" alt="Inventory Management Dashboard " src="https://github.com/user-attachments/assets/47e5d064-109c-44a0-883c-efcf4744e7f2" />
-)
+![Dashboard](Dashboard.png)
 
 ---
 
