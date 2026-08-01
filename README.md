@@ -1,15 +1,10 @@
-
-Joyce Dsouza <joycedsouza2510@gmail.com>
-11:51 PM (0 minutes ago)
-to me
-
 # 📊 Inventory Management Dashboard (Microsoft Excel)
 
-## 📌 Project Overview
+## 🚀 Project Overview
 
-This project is an interactive Inventory Management Dashboard built using Microsoft Excel.
+This project is an interactive **Inventory Management Dashboard** built entirely in **Microsoft Excel** using Pivot Tables, Pivot Charts, KPI Cards, and Slicers.
 
-The dashboard enables users to monitor inventory performance through KPIs, Pivot Tables, Pivot Charts, and interactive Slicers.
+The dashboard provides an easy way to monitor inventory performance, analyse stock levels, identify low-stock products, and explore purchasing trends.
 
 ---
 
@@ -26,7 +21,7 @@ The dashboard enables users to monitor inventory performance through KPIs, Pivot
 
 ## 📈 Dashboard Features
 
-### KPI Cards
+### 📌 KPI Cards
 
 - Total Products
 - Inventory Value
@@ -35,46 +30,58 @@ The dashboard enables users to monitor inventory performance through KPIs, Pivot
 - Low Stock Products
 - Out of Stock Products
 
-### Charts
+### 📊 Charts
 
 - Inventory by Category
 - Inventory Value by Warehouse
-- Monthly Purchases Trend
+- Monthly Purchases Trend (2025–2026)
 - Stock Status Distribution
 - Top 10 Products by Inventory Value
-qaws
-### Interactive Filters
+
+### 🎛 Interactive Filters (Slicers)
 
 - Category
 - Warehouse
 - Supplier
-- Status
+- Stock Status
 
 ---
 
-## 🛠 Skills Demonstrated
+## 🛠 Tools Used
 
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
 - Slicers
 - Dashboard Design
-- KPI Reporting
-- Data Cleaning
-- Data Visualization
+- Basic Data Analysis
 
 ---
 
+## 💡 Skills Demonstrated
 
-## Dashboard Preview
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Interactive Dashboard Design
+- KPI Reporting
+- Data Cleaning
+- Data Visualisation
+- Business Reporting
 
-![Inventory Dashboard](Inventory%20Management%20Dashboard .jpg)
+---
+
+## 📷 Dashboard Preview
+
+![Inventory Dashboard](Inventory Management Dashboard .jpg)
+
 ---
 
 ## 📂 Files Included
 
 - Inventory Management Dashboard.xlsx
-- Inventory Management Dashboard.jpg
+- Inventory Management Dashboard .jpg
+- README.md
 
 ---
 
@@ -83,7 +90,9 @@ qaws
 - Power Query integration
 - Dynamic formulas using XLOOKUP
 - Automated KPI calculations
+- Conditional Formatting enhancements
 - Additional inventory insights
+- Power Pivot integration
 
 ---
 
@@ -93,7 +102,16 @@ qaws
 
 Aspiring Data Analyst
 
-Skills:
+### Skills
+
 - Microsoft Excel
 - Power BI
-- SQL
+- SQL (Learning)
+- Data Visualisation
+- Dashboard Design
+- Business Intelligence
+
+---
+
+⭐ If you found this project interesting, feel free to star the repository!
+
