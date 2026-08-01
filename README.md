@@ -68,9 +68,7 @@ The dashboard enables users to monitor inventory performance through KPIs, Pivot
 ## 📷 Dashboard Preview
 
 > Add your dashboard screenshot below.
-
-!Inventory Management Dashboard.jpg
-
+Inventory Management Dashboard .jpg
 ---
 
 ## 📂 Files Included
